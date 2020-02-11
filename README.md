@@ -1,1 +1,1 @@
-# LinuxLaptop
+Configs of linux laptop
